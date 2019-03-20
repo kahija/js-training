@@ -7,7 +7,9 @@
  */
 
 // Your code :
-
+const id = function (pouet){
+   return pouet
+}
 //* Begin of tests
 const assert = require('assert')
 
